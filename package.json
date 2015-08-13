@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-rhinebeck",
+  "version": "0.0.1",
+  "description": "Rhinebeck theme for JSON Resume",
+  "author": "Janne Klouman",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janneklouman/jsonresume-theme-rhinebeck"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
